@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Travelmantics</string>
+    <string name="title_hint">Title</string>
+    <string name="price_hint">Price</string>
+    <string name="description_hint">Description</string>
+    <string name="menu_save_text">SAVE</string>
+    <string name="error_msg">Something went wrong!</string>
+    <string name="save_deal_first_toast">Please, save deal before deleteing!</string>
+    <string name="successful_deal_toast">Deal saved successfully!</string>
+    <string name="successful_delete_toast">Deal deleted Successfully!</string>
+    <string name="add_new_deal_menu">Add New Deal</string>
+    <string name="sign_out_menu">Sign Out</string>
+    <string name="delete_deal_menu">DELETE</string>
+    <string name="upload_photo_toast">Please, upload photo first!</string>
+    <string name="complete_fields_toast">Please, complete all fields!</string>
+</resources>
